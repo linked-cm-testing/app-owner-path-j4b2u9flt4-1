@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "owner-path-j4b2u9flt4-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/owner-path-j4b2u9flt4-assets-owner-path-j4b2u9flt4-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
