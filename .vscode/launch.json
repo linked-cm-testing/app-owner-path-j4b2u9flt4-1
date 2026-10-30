@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run owner-path-j4b2u9flt4-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
